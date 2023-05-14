@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "492722415156",
+    "project_id": "flutter-loginpage-3a1d9",
+    "storage_bucket": "flutter-loginpage-3a1d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492722415156:android:5109b12b8a93f565330c61",
+        "android_client_info": {
+          "package_name": "www.nipunvats.com.login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492722415156-iveithk43aegfov4d6af9outkr9u1tt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkW91N7aJ-BA7vzRQnWk2QNe-x3yOXErY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492722415156-iveithk43aegfov4d6af9outkr9u1tt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
